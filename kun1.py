@@ -11,4 +11,4 @@ def count_vowels_and_consonants(text):
                 
     return result
 soz = input ("soz kiriting : ")
-print (count_vowels_and_consonants(soz))
+print (count_vowels_and_consonants(soz))push
