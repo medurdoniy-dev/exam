@@ -1,0 +1,1 @@
+    print (max(data, key=lambda x: x['grade'] ))
